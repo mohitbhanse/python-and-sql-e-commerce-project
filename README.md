@@ -8,7 +8,7 @@
 4. Calculate the percentage of orders that were paid in installments.
 5. Count the number of customers from each state.
 
-6. 1. Calculate the number of orders per month in 2018.
+1. Calculate the number of orders per month in 2018.
 2. Find the average number of products per order, grouped by customer city.
 3. Calculate the percentage of total revenue contributed by each product category.
 4. Identify the correlation between product price and the number of times a product has been purchased.
