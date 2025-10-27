@@ -1,6 +1,6 @@
 # python-and-sql-e-commerce-project
 
-# task to solve utilizing the python and sql technicl skills
+# task to solve utilizing the python and sql technical skills
 
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
